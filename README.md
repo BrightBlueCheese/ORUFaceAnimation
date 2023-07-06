@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-# ORU Face Animation
+# TOY Face Animation
 This code was built based on Vox dataset format .
 This code was built on the followings.
 - CoquiTTS
