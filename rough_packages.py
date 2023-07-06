@@ -73,7 +73,7 @@ os.makedirs("./output", exist_ok=True)
 
 # args = parser.parse_args()
 
-def source_video_croper(video_input:str, audio_input:str='./output/tts_audio.wav',
+def source_video_cropper(video_input:str, audio_input:str='./output/tts_audio.wav',
                         video_output:str='./output/cropped_video.mp4', video_fps:int=30,
                         video_res:int=256):
     audio_info = mediainfo(audio_input)
