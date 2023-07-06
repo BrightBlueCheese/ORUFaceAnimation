@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # ORU Face Animation
 This code was built based on Vox dataset format .
 This code was built on the followings.
@@ -14,7 +16,8 @@ This code was built on the followings.
 - Should have to prepare the image with vox format for the best performance.
 
 # Addition
-- Work through the FaceSyncProto.ipynb file.
+- Work through the FaceSyncProto.ipynb file. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1rozvtZDtBKlmxrIM-m6AWvbnyTtm4UIK/view?usp=drive_link) 
+
 - The code already has the source image and video file for the test.
 
 
