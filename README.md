@@ -16,6 +16,7 @@ This code was built on the followings.
 - Should have to prepare the image with vox format for the best performance.
 
 # Addition
+- **GPU is REQUIRED**
 - Work through the FaceSyncProto.ipynb file. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RKT-s7H3uMLhQWFSwEVbXrG7r0FZlK8f?usp=sharing) 
 
 - The code already has the source image and video file for the test.
