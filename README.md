@@ -14,6 +14,7 @@ This code was built on the followings.
 # Limitation
 - The source image preprocessing stage has not been implemented.
 - Should have to prepare the image with vox format for the best performance.
+- This code may not be compatible with the recent Colab environment. (depricated)
 
 # Addition
 - **GPU is REQUIRED**
